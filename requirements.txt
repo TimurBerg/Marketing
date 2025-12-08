@@ -1,0 +1,14 @@
+```txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+phik
+category_encoders
+optuna
+shap
+missingno
+catboost
+lightgbm
+gdown
